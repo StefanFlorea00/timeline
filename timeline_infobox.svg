@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 840 306" enable-background="new 0 0 840 306" xml:space="preserve">
+<g id="infoboxes">
+</g>
+<g id="infobox_x5F_template">
+	<g>
+		<rect x="2" y="2" fill="#DFF3FF" width="836" height="302"/>
+		<path d="M836,4v298H4V4H836 M840,0H0v306h840V0L840,0z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 213.7803 45.1011)" font-family="'FootlightMTLight'" font-size="36px">Harry Potter and the Prisoner of Azkaban</text>
+	<text transform="matrix(1 0 0 1 213.7803 69.1011)" fill="#808080" font-family="'FootlightMTLight'" font-size="18px">Harry Potter og fangen fra Azkaban</text>
+	<text transform="matrix(1 0 0 1 726.7803 79.1011)" fill="#999999" font-family="'FootlightMTLight'" font-size="36px">2004</text>
+	<text transform="matrix(1 0 0 1 213.7803 118.1011)" fill="#B3B3B3" font-family="'Gadugi'" font-size="18px">2h 22min</text>
+	<text transform="matrix(1 0 0 1 213.7803 158.1011)" fill="#808080" font-family="'Gadugi'" font-size="18px">Directed by</text>
+	<text transform="matrix(1 0 0 1 213.7803 199.1011)" font-family="'Gadugi'" font-size="36px">Alfonso Cuarón</text>
+	<text transform="matrix(1 0 0 1 213.7803 244.1011)" fill="#808080" font-family="'Gadugi'" font-size="18px">Screenplay by</text>
+	<text transform="matrix(1 0 0 1 213.7803 278.1011)" font-family="'Gadugi'" font-size="36px">Steve Kloves</text>
+	
+		<image overflow="visible" width="683" height="1024" id="poster" xlink:href="images/azkaban.jpg"  transform="matrix(0.2686 0 0 0.2686 21 16)">
+	</image>
+</g>
+</svg>

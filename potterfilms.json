@@ -1,0 +1,66 @@
+[
+  {
+    "title": { "original": "Harry Potter and the Sorcerer's Stone", "danish": "Harry Potter og de vises sten" },
+    "year": 2001,
+    "length": "2h 32min",
+    "director": "Chris Columbus",
+    "writers": { "novel": "J.K. Rowling", "screenplay": "Steve Kloves" },
+    "poster": "sorcerer.jpg"
+  },
+  {
+    "title": { "original": "Harry Potter and the Chamber of Secrets", "danish": "Harry Potter og hemmelighedernes kammer" },
+    "year": 2002,
+    "length": "2h 41min",
+    "director": "Chris Columbus",
+    "writers": { "novel": "J.K. Rowling", "screenplay": "Steve Kloves" },
+    "poster": "chamber.jpg"
+  },
+  {
+    "title": { "original": "Harry Potter and the Prisoner of Azkaban ", "danish": "Harry Potter og fangen fra Azkaban" },
+    "year": 2004,
+    "length": "2h 22min",
+    "director": "Alfonso Cuarón",
+    "writers": { "novel": "J.K. Rowling", "screenplay": "Steve Kloves" },
+    "poster": "azkaban.jpg"
+  },
+  {
+    "title": { "original": "Harry Potter and the Goblet of Fire ", "danish": "Harry Potter og flammernes pokal " },
+    "year": 2005,
+    "length": "2h 37min ",
+    "director": "Mike Newell",
+    "writers": { "novel": "J.K. Rowling", "screenplay": "Steve Kloves" },
+    "poster": "goblet.jpg"
+  },
+  {
+    "title": { "original": "Harry Potter and the Order of the Phoenix ", "danish": "Harry Potter og Fønixordenen" },
+    "year": 2007,
+    "length": "2h 18min ",
+    "director": "David Yates",
+    "writers": { "novel": "J.K. Rowling", "screenplay": "Michael Goldenberg" },
+    "poster": "phoenix.jpg"
+  },
+  {
+    "title": { "original": "Harry Potter and the Half-Blood Prince ", "danish": "Harry Potter og halvblodsprinsen" },
+    "year": 2009,
+    "length": "2h 33min ",
+    "director": "David Yates",
+    "writers": { "novel": "J.K. Rowling", "screenplay": "Steve Kloves" },
+    "poster": "half-blood.jpg"
+  },
+  {
+    "title": { "original": "Harry Potter and the Deathly Hallows: Part 1 ", "danish": "Harry Potter og dødsregalierne - del 1" },
+    "year": 2010,
+    "length": "2h 26min",
+    "director": "David Yates",
+    "writers": { "novel": "J.K. Rowling", "screenplay": "Steve Kloves" },
+    "poster": "hallows_1.jpg"
+  },
+  {
+    "title": { "original": "Harry Potter and the Deathly Hallows: Part 2 ", "danish": "Harry Potter og dødsregalierne - del 2" },
+    "year": 2011,
+    "length": "2h 10min ",
+    "director": "David Yates",
+    "writers": { "novel": "J.K. Rowling", "screenplay": "Steve Kloves" },
+    "poster": "hallows_2.jpg"
+  }
+]
